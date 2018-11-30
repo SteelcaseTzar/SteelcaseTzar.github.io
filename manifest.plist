@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://steelcasetzar.github.io/appstore.png</string>
+					<string>https://steelcasetzar.github.io/apple-touch-icon-57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://steelcasetzar.github.io/app-3-508E271B-695E-4F66-8EA8-72DA0BD7A2E9.ipa</string>
+					<string>https://steelcasetzar.github.io/app-3-4661EE1E-937E-43E5-A77B-0C1672571092.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -153,7 +153,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://steelcasetzar.github.io/app-3-9445D681-22BC-4903-95F9-6E793DA30111.ipa</string>
+					<string>https://steelcasetzar.github.io/app-3-012DE870-D101-4536-8D83-7065D690D8EE.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -173,7 +173,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://steelcasetzar.github.io/app-3-68954901-86D3-44F0-A2A1-70B094C23954.ipa</string>
+					<string>https://steelcasetzar.github.io/app-3-D526C42D-533B-4BAC-9A54-D1FA3FCB0978.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -227,7 +227,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://steelcasetzar.github.io/app-3-5DB37E09-6375-421C-B833-7E587EDE04AB.ipa</string>
+					<string>https://steelcasetzar.github.io/app-3-55A542AA-FCA7-4C1E-A7E0-88D81EE63485.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -302,7 +302,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://steelcasetzar.github.io/app-3-5D0BFA23-1113-424D-AF6F-35BFDFE56196.ipa</string>
+					<string>https://steelcasetzar.github.io/app-3-42D4697D-0BC1-4CD1-9304-E8955407B54B.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -447,7 +447,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://steelcasetzar.github.io/app-3-7AB058F5-80B8-484F-85E0-924E60420186.ipa</string>
+					<string>https://steelcasetzar.github.io/app-3-905E730C-A600-43D1-8065-422B130E1BB2.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -466,7 +466,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://steelcasetzar.github.io/app-3-E001018F-61BF-4E84-A471-CB744213C08A.ipa</string>
+					<string>https://steelcasetzar.github.io/app-3-87A521AF-E741-48BE-81C9-4640DC703164.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
