@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://steelcasetzar.github.io/apps/app-3.ipa</string>
-				</dict>
-			</array>
-			<key>metadata</key>
+	<dict>
+		<key>items</key>
+		<array>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.idrvyl1a9g4ppb.ovh0mwnd18vc</string>
-				<key>bundle-version</key>
-				<string>0.0.1</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>app-3</string>
-			</dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>http://example.com/app.ipa</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.example.app</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>subtitle</key>
+					<string>for iOS</string>
+					<key>title</key>
+					<string>My App</string>
+				</dict>	
 			<key>thinned-assets</key>
 			<array>
 				<dict>
@@ -491,7 +491,38 @@
 					</array>
 				</dict>
 			</array>
-		</dict>
+	</dict>
 	</array>
-</dict>
+	</dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>http://example.com/app.ipa</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.example.app</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>subtitle</key>
+					<string>for iOS</string>
+					<key>title</key>
+					<string>My App</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
 </plist>
