@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://steelcasetzar.github.io/apps/app-3.ipa</string>
+		<string>https://steelcasetzar.github.io/apps/NerveCenter.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://Fake_LINK</string>
+		<string>https://Fake</string>
 		<key>fullSizeImageURL</key>
-		<string>https://Fake_LINK</string>
+		<string>https://Fake</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
