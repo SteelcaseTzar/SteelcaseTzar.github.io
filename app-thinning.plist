@@ -4,120 +4,22 @@
 <dict>
 	<key>variants</key>
 	<dict>
-		<key>Apps/app-3-06A508E1-3B08-405E-8D7B-B9C24A13E2FD.ipa</key>
+		<key>Apps/app-3-09FDED67-1E9E-4CD6-AB45-5CB9938C55AA.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>3847591</integer>
+			<integer>3849518</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>3847591</integer>
+			<integer>3849518</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>33595396</integer>
-			<key>sizeUncompressedInitialPrefetchedODR</key>
-			<integer>0</integer>
-			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
-			<false/>
-			<key>sizeUncompressedODR</key>
-			<integer>0</integer>
-			<key>tagsUncompressedInitialPrefetchedODR</key>
-			<array/>
-			<key>variantDescriptors</key>
-			<array>
-				<dict>
-					<key>device</key>
-					<string>iPhone8,1</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone8,4</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone6,1</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone7,2</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPod7,1</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone6,2</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-			</array>
-		</dict>
-		<key>Apps/app-3-1C56243E-16CB-40E7-A645-5BA46AF9B3DE.ipa</key>
-		<dict>
-			<key>limitUncompressedInitialPrefetchedODR</key>
-			<integer>2147483648</integer>
-			<key>onDemandResourcesAssetPacks</key>
-			<dict/>
-			<key>sizeCompressedApp</key>
-			<integer>3850329</integer>
-			<key>sizeCompressedAppAndODR</key>
-			<integer>3850329</integer>
-			<key>sizeCompressedODR</key>
-			<integer>0</integer>
-			<key>sizeUncompressedApp</key>
-			<integer>33595396</integer>
-			<key>sizeUncompressedAppAndODR</key>
-			<integer>33595396</integer>
-			<key>sizeUncompressedInitialPrefetchedODR</key>
-			<integer>0</integer>
-			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
-			<false/>
-			<key>sizeUncompressedODR</key>
-			<integer>0</integer>
-			<key>tagsUncompressedInitialPrefetchedODR</key>
-			<array/>
-			<key>variantDescriptors</key>
-			<array>
-				<dict>
-					<key>device</key>
-					<string>iPhone11,8</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-			</array>
-		</dict>
-		<key>Apps/app-3-6418F476-8EC9-4BB7-A15D-DA3FFC650A10.ipa</key>
-		<dict>
-			<key>limitUncompressedInitialPrefetchedODR</key>
-			<integer>2147483648</integer>
-			<key>onDemandResourcesAssetPacks</key>
-			<dict/>
-			<key>sizeCompressedApp</key>
-			<integer>3849123</integer>
-			<key>sizeCompressedAppAndODR</key>
-			<integer>3849123</integer>
-			<key>sizeCompressedODR</key>
-			<integer>0</integer>
-			<key>sizeUncompressedApp</key>
-			<integer>33595396</integer>
-			<key>sizeUncompressedAppAndODR</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -214,22 +116,22 @@
 				</dict>
 			</array>
 		</dict>
-		<key>Apps/app-3-6888CC2A-D4D5-454A-B275-EA393C912C07.ipa</key>
+		<key>Apps/app-3-10E17425-777B-4761-8C2F-184E41E4E756.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>3847588</integer>
+			<integer>3860785</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>3847588</integer>
+			<integer>3860785</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -242,46 +144,110 @@
 			<array>
 				<dict>
 					<key>device</key>
-					<string>iPhone10,4</string>
+					<string>iPhone10,2</string>
 					<key>os-version</key>
 					<string>12</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPhone9,3</string>
+					<string>iPhone10,5</string>
 					<key>os-version</key>
 					<string>12</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPhone9,1</string>
+					<string>iPhone10,3</string>
 					<key>os-version</key>
 					<string>12</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPhone10,1</string>
+					<string>iPhone11,2</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone10,6</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone11,4</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone11,6</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone9,2</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone9,4</string>
 					<key>os-version</key>
 					<string>12</string>
 				</dict>
 			</array>
 		</dict>
-		<key>Apps/app-3-7EA25417-5A68-49D5-8D59-7939B3548F41.ipa</key>
+		<key>Apps/app-3-2D0891CA-1FE2-4C55-A282-7204293A5052.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>3849140</integer>
+			<integer>3850725</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>3849140</integer>
+			<integer>3850725</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantDescriptors</key>
+			<array>
+				<dict>
+					<key>device</key>
+					<string>iPhone11,8</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Apps/app-3-3EF8C340-218A-4527-B9E8-53CD41FAA1C3.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>3849535</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>3849535</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>33596126</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>33596126</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -408,22 +374,138 @@
 				</dict>
 			</array>
 		</dict>
-		<key>Apps/app-3-85049684-DFAD-4113-8394-A56FE5D3E2CF.ipa</key>
+		<key>Apps/app-3-61DC9172-7EEA-40C3-AC31-7D4E439B772A.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>3860432</integer>
+			<integer>3847987</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>3860432</integer>
+			<integer>3847987</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantDescriptors</key>
+			<array>
+				<dict>
+					<key>device</key>
+					<string>iPhone8,1</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone8,4</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone6,1</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone7,2</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPod7,1</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone6,2</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Apps/app-3-85B21EF6-24AF-4CE7-8032-58245D94C183.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>3847987</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>3847987</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>33596126</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>33596126</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantDescriptors</key>
+			<array>
+				<dict>
+					<key>device</key>
+					<string>iPhone10,4</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone9,3</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone9,1</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone10,1</string>
+					<key>os-version</key>
+					<string>12</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Apps/app-3-EAD0191F-A602-4DA6-A046-CC6542F52C6A.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>3860820</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>3860820</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>33596126</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>33596126</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -448,88 +530,6 @@
 				</dict>
 			</array>
 		</dict>
-		<key>Apps/app-3-E2ACABDE-3AE6-4897-AC2C-032C66821AF5.ipa</key>
-		<dict>
-			<key>limitUncompressedInitialPrefetchedODR</key>
-			<integer>2147483648</integer>
-			<key>onDemandResourcesAssetPacks</key>
-			<dict/>
-			<key>sizeCompressedApp</key>
-			<integer>3860399</integer>
-			<key>sizeCompressedAppAndODR</key>
-			<integer>3860399</integer>
-			<key>sizeCompressedODR</key>
-			<integer>0</integer>
-			<key>sizeUncompressedApp</key>
-			<integer>33595396</integer>
-			<key>sizeUncompressedAppAndODR</key>
-			<integer>33595396</integer>
-			<key>sizeUncompressedInitialPrefetchedODR</key>
-			<integer>0</integer>
-			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
-			<false/>
-			<key>sizeUncompressedODR</key>
-			<integer>0</integer>
-			<key>tagsUncompressedInitialPrefetchedODR</key>
-			<array/>
-			<key>variantDescriptors</key>
-			<array>
-				<dict>
-					<key>device</key>
-					<string>iPhone10,2</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone10,5</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone10,3</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone11,2</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone10,6</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone11,4</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone11,6</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone9,2</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone9,4</string>
-					<key>os-version</key>
-					<string>12</string>
-				</dict>
-			</array>
-		</dict>
 		<key>Apps/app-3.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
@@ -537,15 +537,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>10831672</integer>
+			<integer>10832102</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>10831672</integer>
+			<integer>10832102</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>33595396</integer>
+			<integer>33596126</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
